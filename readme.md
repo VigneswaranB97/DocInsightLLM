@@ -54,7 +54,7 @@ A Streamlit application that allows users to upload PDF documents, generate comp
 
 1. Run the Streamlit app:
    ```bash
-   streamlit run app.py
+   streamlit run enhanced_app.py
    ```
 
 2. Open your web browser and navigate to the URL displayed in the terminal (typically `http://localhost:8501`).
